@@ -8,8 +8,8 @@ The idea is to make the website to have a contribution chart like github and sho
 I'm going to start with just displaying it in my notes and hopefully soon to a timer and build an extension that closes all tabs and have it be able to still open a few ones, but let's see. 
 
 ## Progression
-- [ ] Basic html, css, js 
-- [ ] Github contribution chart
+- [ X ] Basic html, css, js 
+- [ X ] Github contribution chart
 - [ ] Timer
 - [ ] Extension
 
