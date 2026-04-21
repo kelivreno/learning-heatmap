@@ -1,7 +1,7 @@
 let data = JSON.parse(localStorage.getItem("commits")) || {
-  "2026-04-18": 30,
-  "2026-04-19": 60,
-  "2026-04-20": 10
+  "2026-04-18": 30, // 30 minutes
+  "2026-04-19": 60, //60 mintues
+  "2026-04-20": 10 // 10 minutes
 }
 
 const container = document.getElementById('heatmap')

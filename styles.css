@@ -42,7 +42,7 @@ h1, p {
 }
 
 #controls {
-    margin: 0 auto;
+    margin: 10px auto;
     display: block;
     justify-content: center;
     align-items: center;
